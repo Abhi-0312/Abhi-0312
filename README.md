@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi-0312 [Abhishek]
 - 👀 I’m interested in Data Analytics, Business Analytics, and leveraging data to drive decision-making.
-- 🌱 I’m currently learning a Data Analyst Course, with a focus on Python, SQL, and data visualization tools like Tableau and Power BI.
+- 🌱 I’m currently learning a Data Analyst Course, with a focus on Python, SQL, Excel and data visualization tools like  Power BI.
 - 💼 I’m also exploring machine learning and statistical analysis to enhance my analytics skills.
 - 💞️ I’m looking to collaborate on data-driven projects, analytics tools, or anything that involves extracting insights from data.
 - 📈 I’m passionate about turning raw data into actionable insights and helping businesses make data-informed decisions.
