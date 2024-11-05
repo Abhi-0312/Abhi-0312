@@ -1,5 +1,3 @@
-Great! Here’s your updated README with the LinkedIn link included:
-
 ---
 
 # Hi there, I'm Abhishek! 👋
