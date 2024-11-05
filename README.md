@@ -3,7 +3,7 @@
 # Hi there, I'm Abhishek! 👋
 
 
-#### Welcome to my GitHub profile! I’m Abhishek, a former Process Engineer turned Data Analyst, passionate about harnessing the power of data to drive meaningful and informed decision-making. With a strong foundation in process optimization and analytical thinking from my engineering background, I now focus on Data Analytics and Business Analytics, using structured approaches to uncover insights from data. My goal is to transform complex data into actionable insights that can empower businesses to make strategic, data-driven decisions. I’m always eager to explore new ways to leverage data for impactful outcomes and look forward to collaborating with others who share a similar passion for analytics!
+Welcome to my GitHub profile! I’m Abhishek, a former Process Engineer turned Data Analyst, passionate about transforming data into strategic insights. With a strong foundation in process optimization, I specialize in Data and Business Analytics, using structured approaches to extract meaningful insights and empower data-driven decisions. I'm eager to explore new techniques and collaborate with others who share my enthusiasm for analytics. Let’s unlock the potential of data together!
 
 ---
 
